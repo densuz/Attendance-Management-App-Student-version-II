@@ -1,4 +1,4 @@
-<p align="center"><img src="Documentation/icons/logo.png" width=80% h></p>
+<p align="center"><img src="Documentation/icons/logo.png" width=75% h></p>
 
 <p align="center">
 <a href=""><img src="Documentation/icons/build.svg" target="_blank" alt="Build Status"></a>
@@ -6,20 +6,22 @@
 <a href="Documentation/Attendance_register.apk" target="_blank"><img src="Documentation/icons/apk.svg" alt="Apk"><a>
 <a href="LICENSE" target="_blank"><img src="Documentation/icons/license.svg" alt="License"><a>
 <br>
-<a href="https://www.linkedin.com/in/saurabh17100" target="_blank"><img src="Documentation/icons/linkedin.svg" alt="Linkedin" ></a>
+
+
+
+<!-- <a href="https://www.linkedin.com/in/saurabh17100" target="_blank"><img src="Documentation/icons/linkedin.svg" alt="Linkedin" ></a> -->
 </p>
 
 ## About
-
+Student Attendance Portal is another project of attendance management system.This app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+|[Demo Video](https://www.youtube.com/watch?v=pzbbI7wJgZ8)|
+|--|
 
 
 ## Features
-- 
-- 
-
-## Functionalities
-- 
-- 
+- Realtime-synchronization with database.
+- notification if attendace below threshold. 
+- can see all attendance details anytime they want.
 
 ## Security 
 - Login details and device id verification to avoid fraud and Spamming.
